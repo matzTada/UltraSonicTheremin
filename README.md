@@ -1,4 +1,4 @@
-#UltraSonicTheremin
+# UltraSonicTheremin
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1DQ77VDqvUg
 " target="_blank"><img src="http://img.youtube.com/vi/1DQ77VDqvUg/0.jpg" 
@@ -11,7 +11,7 @@ alt="movie on youtube" width=40% border="10" /></a>
 
 Enjoy!!
 
-#Image
+## Image
 
 <a><img src="https://github.com/matzTada/UltraSonicTheremin/blob/master/image/pic01.jpg" 
 alt="pic01" width=20%></a>
